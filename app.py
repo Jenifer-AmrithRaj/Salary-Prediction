@@ -8,7 +8,7 @@ st.set_page_config(page_title="Salary Estimation App", layout="wide")
 st.title("Salary estimation")
 st.markdown("Predict salary based on company experience!")
 
-st.image(r"c:\Users\jenif\Desktop\theoffice-michael.gif", caption="Let's make some money!", use_container_width=True)
+st.image(r"theoffice-michael.gif", caption="Let's make some money!", use_container_width=True)
 
 st.divider()
 
